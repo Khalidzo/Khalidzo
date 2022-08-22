@@ -1,8 +1,6 @@
 <h1 align="center">Hey there 👋, this is Khalid</h1>
 <h3 align="center">A junior computer engineering student with an interest in embedded systems, machine learning, and robotics</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalidzo" alt="khalidzo" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/@ksenpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ksenpai" height="30" width="40" /></a>
